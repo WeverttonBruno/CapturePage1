@@ -55,15 +55,20 @@ h2{
     margin-bottom: 15px;
 }
 
-input, section{
+input{
 
 width: 100%;
 box-sizing: border-box;
 padding: 10px;
 border: none;
-margin-bottom: 0px;
+margin-bottom: 10px;
 
 
+}
+
+section{
+
+    margin-bottom: 0px;
 }
 
 input[type="submit"]
